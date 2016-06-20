@@ -26,17 +26,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cubedro/eth-netstats.git"
+    "url": "https://github.com/covertress/eth-netstats.git"
   },
-  "homepage": "https://github.com/cubedro/eth-netstats",
+  "homepage": "https://github.com/covertress/eth-netstats",
   "bugs": {
-    "url": "https://github.com/cubedro/eth-netstats/issues"
+    "url": "https://github.com/covertress/eth-netstats/issues"
   },
   "authors": [
     {
-      "name": "Marian Oancea",
-      "email": "marian@ethdev.com",
-      "url": "https://github.com/cubedro"
+      "name": "covertress",
+      "email": "covertress@gmail.com",
+      "url": "https://github.com/covertress"
     }
   ],
   "license": "LGPL-3.0",
